@@ -1,5 +1,5 @@
-[3:53 PM, 7/18/2021] Aleena Sajan: One way of solving this problem is by using Python to manipulate our transactions data and create a personalized monthly report of our finances, categorizing expenses in the best way that resonates with you. What we need to do is to gather monthly data and to choose our expenses’ categories (only when running the code for the first time).
-[3:56 PM, 7/18/2021] Aleena Sajan: Step 1: Import Python Libraries
+One way of solving this problem is by using Python to manipulate our transactions data and create a personalized monthly report of our finances, categorizing expenses in the best way that resonates with you. What we need to do is to gather monthly data and to choose our expenses’ categories (only when running the code for the first time
+Step 1: Import Python Libraries
 First thing first, we need to import the Python libraries that we are going to use. A library is a collection of functions and methods that allows you to perform different actions.
 
 Step 2: Get the Data
@@ -66,3 +66,4 @@ Now that we have created 3 different charts showing our Net Worth, Monthly Expen
 
 Within the Dash App, you can see the details of each data point by hovering the mouse and filter down the categories that you want to display in the chart.
 That’s it, you now have your Final Dashboard!!
+
